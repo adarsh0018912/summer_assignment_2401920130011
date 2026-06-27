@@ -10,7 +10,7 @@ class Outer {
     }
 }
 
-public class Main {
+public class Outer_and_Inner {
     public static void main(String[] args) {
         Outer o = new Outer();
         o.display();

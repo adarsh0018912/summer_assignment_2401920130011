@@ -24,7 +24,7 @@ class Box3D extends Box {
     }
 }
 
-public class Main {
+public class Box_and_Box3D {
     public static void main(String[] args) {
         Box b = new Box(5, 4);
         System.out.println("Area = " + b.area());
